@@ -8,20 +8,19 @@ export default function Portfolio() {
       <main className="flex flex-col gap-4">
         <h1 className="text-lg font-semibold">Portfólio</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consectetur,
-          vel iusto libero necessitatibus repudiandae officia dolorem laudantium
-          nisi eum consequuntur tenetur eaque sequi minima reiciendis, neque
-          iste? Enim, mollitia provident. Lorem ipsum dolor sit amet consectetur
-          adipisicing elit. Enim cupiditate obcaecati adipisci maiores at sunt
-          dolor.
+          A Cadena Imóveis apresenta diversos serviços, entre os principais
+          estão a compra, venda e locação de imóveis residenciais e comerciais.
         </p>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consectetur,
-          vel iusto libero necessitatibus repudiandae officia dolorem laudantium
-          nisi eum consequuntur tenetur eaque sequi minima reiciendis, neque
-          iste? Enim, mollitia provident. Lorem ipsum dolor sit amet consectetur
-          adipisicing elit. Enim cupiditate obcaecati adipisci maiores at sunt
-          dolor.
+          Como uma empresa que deseja ser vista como referência até 2026, também
+          possui diferenciais mercadológicos: excelente atendimento ao cliente,
+          plataforma para busca e aquisição de imóveis, e alto índice de
+          satisfação.
+        </p>
+        <p>
+          Seu público-alvo são jovens profissionais em busca do primeiro imóvel,
+          famílias que desejam expandir suas moradias, investidores imobiliários
+          e empresas buscando espaços comerciais.
         </p>
       </main>
     </div>

@@ -25,7 +25,7 @@ export default function Home() {
         </div>
       </div>
 
-      <h2 className="text-xl mt-16 mb-8 font-semibold">Posts recentes</h2>
+      <h2 className="text-xl mt-16 mb-8 font-semibold">Destaques</h2>
 
       <ul className="grid grid-cols-3 gap-8">
         <li className="flex flex-col gap-2 rounded">

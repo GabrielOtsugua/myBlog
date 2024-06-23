@@ -25,8 +25,8 @@ export default function ContactUs() {
       <main className="flex flex-col gap-4">
         <h1 className="text-lg font-semibold">Fale conosco</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consectetur,
-          vel iusto libero necessitatibus repudiandae officia dolorem.
+          Aqui estão alguns contatos rápidos. Caso tenha interesse em outros
+          canais que a Cadena utiliza, clique em "Todos os contatos".
         </p>
 
         <div className="flex gap-12">
@@ -58,7 +58,7 @@ export default function ContactUs() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Button variant={"link"}>Clique aqui para mais detalhes.</Button>
+          <Button variant={"link"}>Todos os contatos</Button>
         </a>
       </main>
     </div>
