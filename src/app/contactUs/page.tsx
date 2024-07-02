@@ -22,7 +22,7 @@ export default function ContactUs() {
           <h1 className="text-lg font-semibold">Fale conosco</h1>
           <p>
             Aqui estão alguns contatos rápidos. Caso tenha interesse em outros
-            canais que a Cadena utiliza, clique em 'Todos os contatos'.
+            canais que a Cadena utiliza, clique em "Todos os contatos".
           </p>
 
           <div className="flex flex-wrap lg:flex-nowrap gap-8">
