@@ -1,7 +1,5 @@
 import Image from "next/image";
 import infografico_1 from "@/assets/infografico_1.png";
-import infografico_2 from "@/assets/infografico_2.png";
-import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import Footer from "@/components/Footer";
 

@@ -17,9 +17,9 @@ export default function History() {
             mais de 12 anos e se inspirou nesse universo para trazer a Cadena ao
             mercado imobiliário, que se instalou Curitiba - PR. "Cadena"
             significa completar uma via realizando todos os movimentos sem cair
-            ou usar equipamentos. Segundo Pedro, "mais que escalada, cadena é
+            ou usar equipamentos. Segundo Pedro, 'mais que escalada, cadena é
             aquele momento mágico em que todas as dificuldades tornam a vitória
-            ainda mais gostosa!".
+            ainda mais gostosa!'.
           </p>
           <p>
             A Cadena tem como propósito ajudar todos que se conectam com a marca
